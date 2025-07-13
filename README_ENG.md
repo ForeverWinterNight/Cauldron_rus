@@ -6,7 +6,7 @@
 Complete Russian localization of the **Cauldron** game with Cyrillic support. The project includes interface translation to Russian and replacement of all game fonts with versions supporting Cyrillic characters.
 
 ## 🎯 Project Goals
-- Add full Russian language support to the game
+- Add Russian language support to the game
 - Solve the Cyrillic display issue (instead of empty strings)
 - Replace Chinese language with Russian in the game menu
 
@@ -14,28 +14,15 @@ Complete Russian localization of the **Cauldron** game with Cyrillic support. Th
 
 ### Language Files:
 - `Simplified_Chinese.txt` - replaced with Russian translation
-- `Russian.txt` - original file with Russian translation
-- `Language_Test.txt` - empty template for testing
 
 ### Fonts (replaced with PixCyrillic):
-- `min.ttf` - main game font
-- `submin.ttf` - subtitle font
-- `orthogonal.ttf` - additional font
-- `Retro Gaming.ttf` - retro font
-- `careless-script.ttf` - script font
 - `AlimamaFangYuanTiVF-Thin-2.ttf` - Chinese font
 
 ### Backup Files:
 All original files are saved with `.backup` extension
 
 ## 🔧 Technical Implementation
-
-### Stage 1: Problem Analysis
-- **Problem**: Cyrillic characters were not displayed in the game (showed empty strings)
-- **Cause**: Fonts used in the game did not contain Cyrillic characters
-- **Solution**: Replace all fonts with versions supporting Cyrillic
-
-### Stage 2: Finding Suitable Font
+### Stage 1: Finding Suitable Font
 - **Selected Font**: PixCyrillic
 - **Source**: https://github.com/lotva/pix-cyrillic
 - **Advantages**:
@@ -44,7 +31,7 @@ All original files are saved with `.backup` extension
   - Small file size (35KB)
   - Free license
 
-### Stage 3 & 4: Language File and Font Replacement
+### Stage 2: Language File and Font Replacement
 # Copy files from archive to game folder with replacement
 
 ## 🎮 Usage Instructions
@@ -86,7 +73,7 @@ copy AlimamaFangYuanTiVF-Thin-2.ttf.backup AlimamaFangYuanTiVF-Thin-2.ttf
 ## 🏆 Results
 
 After applying the Russian localization:
-- ✅ Full Cyrillic support
+- ✅ Cyrillic support
 - ✅ Complete interface translation
 - ✅ Original style preservation
 - ✅ Stable game operation

@@ -96,7 +96,7 @@ copy AlimamaFangYuanTiVF-Thin-2.ttf.backup AlimamaFangYuanTiVF-Thin-2.ttf
 
 ---
 
-**Версия русификации**: 1.0  
+**Версия русификации**: 0.1  
 **Дата создания**: 12 июля 2025  
 **Совместимость**: Cauldron (Steam)  
 **Статус**: Готово к использованию ✅ 

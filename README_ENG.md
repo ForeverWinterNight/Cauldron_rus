@@ -95,7 +95,7 @@ If you encounter issues:
 
 ---
 
-**Localization Version**: 1.0  
+**Localization Version**: 0.1
 **Creation Date**: July 12, 2025  
 **Compatibility**: Cauldron (Steam)  
 **Status**: Ready to use ✅ 

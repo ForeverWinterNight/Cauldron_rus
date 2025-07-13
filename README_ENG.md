@@ -79,6 +79,13 @@ After applying the Russian localization:
 - ✅ Stable game operation
 - ✅ Ability to rollback to original
 
+## 📸 Screenshots
+
+![Screenshot 1](files/1.png)
+![Screenshot 2](files/2.png)
+![Screenshot 3](files/3.png)
+![Screenshot 4](files/4.png)
+
 ## 📞 Support
 
 If you encounter issues:
